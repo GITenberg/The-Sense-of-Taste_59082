@@ -1,0 +1,28 @@
+_repo: The-Sense-of-Taste_59082
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Hollingworth, Harry L. (Harry Levi)
+    aliases:
+    - Hollingworth, Harry Levi
+    - Hollingworth, H. L. (Harry Levi)
+    birthdate: 1880
+    deathdate: 1956
+    gutenberg_agent_id: '39736'
+    url: http://www.gutenberg.org/2009/agents/39736
+  - agent_name: Poffenberger, A. T.
+    gutenberg_agent_id: '50290'
+    url: http://www.gutenberg.org/2009/agents/50290
+description: ''
+gutenberg_issued: '2019-03-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59082'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Sense of Taste
+url: http://www.gutenberg.org/ebooks/59082
